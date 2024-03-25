@@ -2,6 +2,20 @@
 
 The `MMM-SimpleLogo` module is third party modules of the MagicMirror. This module simply displays logo.
 
+## Installation
+
+```
+cd ~/MagicMirror/modules
+git clone https://github.com/frdteknikelektro/MMM-SimpleLogo.git
+```
+
+## Updating
+
+```
+cd ~/MagicMirror/modules/MMM-SimpleLogo
+git pull
+```
+
 ## Using the module
 
 To use this module, add it to the modules array in the `config/config.js` file:
