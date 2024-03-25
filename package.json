@@ -1,0 +1,22 @@
+{
+  "name": "mmm-simplelogo",
+  "version": "1.2.1",
+  "description": "MagicMirror² module to simply displays logo.",
+  "main": "MMM-SimpleLogo.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frdteknikelektro/MMM-SimpleLogo.git"
+  },
+  "keywords": [
+    "MagicMirror",
+    "MagicMirror²",
+    "logo",
+    "logos",
+  ],
+  "author": "frdteknikelektro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frdteknikelektro/MMM-SimpleLogo/issues"
+  },
+  "homepage": "https://github.com/frdteknikelektro/MMM-SimpleLogo#readme"
+}
