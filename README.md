@@ -4,14 +4,14 @@ The `MMM-SimpleLogo` module is third party modules of the MagicMirror. This modu
 
 ## Installation
 
-```
+```bash
 cd ~/MagicMirror/modules
 git clone https://github.com/frdteknikelektro/MMM-SimpleLogo.git
 ```
 
 ## Updating
 
-```
+```bash
 cd ~/MagicMirror/modules/MMM-SimpleLogo
 git pull
 ```
